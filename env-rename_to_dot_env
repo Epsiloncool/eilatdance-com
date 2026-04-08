@@ -1,0 +1,10 @@
+# Database Credentials
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=<dbuser>
+DB_PASSWORD=<dbpass>
+DB_NAME=<dbname>
+
+# Security
+JWT_SECRET=<jwt secret>
+ADMIN_SECRET_KEY=<admin secret key>
